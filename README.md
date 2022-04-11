@@ -12,6 +12,9 @@ Using Neural Networks, we will be predicting the success of an orginazition who 
 
 # Compiling, Training, and Evaluating the Model
 - We ended up with three hidden layers. The first had 100 neurons. The second had 50. The third had 10. I stuck with the 'relu' as we are looking for at positive nonlinear input data.
+![Compiling](https://github.com/Drakeblaze10/Neural_Network_Charity_Analysis/blob/main/Resources/Neural_model.png)
 - I was not able to reach the target model performance but was not far off with 73%.
+![Evaluation](https://github.com/Drakeblaze10/Neural_Network_Charity_Analysis/blob/main/Resources/Evaluation.png)
 
 ## Summary
+The neural network, did an effective job of reducing loss within approx. 30 epochs. I could certainly keep playing with the current model or even changing out the model to improve model perfomance. I am still learning whether support vector or deep learning is better, however I would like to see how SVM handles the perdiction. 
